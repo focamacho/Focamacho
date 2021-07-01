@@ -5,7 +5,7 @@
         <p align="center">
             Roi! Eu sou o Focamacho, um estudante de programação que busca aprimorar suas habilidades nas mais diversas áreas.
             <br/>
-            Sou apaixonado por jogos e como hobby gosto de criar mods & plugins para eles.
+            Sou apaixonado por jogos e como hobby gosto de criar mods e plugins para eles.
             <br/>
             <br/>
             <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Focamacho&count_private=true&theme=radical" alt="Focamacho's GitHub Stats"/></a>
