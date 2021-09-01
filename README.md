@@ -1,21 +1,24 @@
-<div>
+<div align="center">
         <a href="#">
-            <h1 align="center">
+            <h1>
                 <img src="https://img.shields.io/badge/Focamacho-%230d1117.svg?style=for-the-badge&logoColor=white" alt="Focamacho's Badge"/>
             </h1>
         </a>
-        <h3 align="center">Sobre mim</h3>
-        <p align="center">
+        <h3>Sobre mim</h3>
+        <p>
             Roi! Eu sou o Focamacho, um estudante de programação que busca aprimorar suas habilidades nas mais diversas áreas.
             <br/>
             Sou apaixonado por jogos e como hobby gosto de criar mods e plugins para eles.
             <br/>
             <br/>
-            <a href="#" align="left">
+        </p>
+</div>
+
+<div>
+        <a href="#">
                 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Focamacho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
                 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Focamacho&layout=compact&langs_count=7&theme=radical"/>
-            </a>
-        </p>
+        </a>
 </div>
 
 ##
