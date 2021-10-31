@@ -6,7 +6,7 @@
         </a>
         <h3>Sobre mim</h3>
         <p>
-            Roi! Eu sou o Focamacho, um estudante de programação que busca aprimorar suas habilidades nas mais diversas áreas.
+            Roi! Eu sou o Focamacho, um estudante de programação que busca aprimorar suas habilidades nas mais diversas áreas 👋
             <br/>
             Sou apaixonado por jogos e como hobby gosto de criar mods e plugins para eles ❤
             <br/>
