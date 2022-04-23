@@ -25,6 +25,7 @@
 ##
 
 <div align="center">
+    <a href="https://twitter.com/focamacho_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.reddit.com/user/Focamacho/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
     <a href="https://discordapp.com/users/465364296839331861"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <br/>
