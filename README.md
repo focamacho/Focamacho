@@ -1,7 +1,11 @@
 <div align="center">
-        <a href="#">
+        <a href="#"">
             <h1>
+                <img src="https://github.com/focamacho/Focamacho/blob/main/images/ditto.gif" height=32px>
+                <img src ="https://github.com/focamacho/Focamacho/blob/main/images/pikachu.gif" height=32px>
                 <img src="https://img.shields.io/badge/Focamacho-%230d1117.svg?style=for-the-badge&logoColor=white" alt="Focamacho's Badge"/>
+                <img src ="https://github.com/focamacho/Focamacho/blob/main/images/pikachu.gif" height=32px>
+                <img src="https://github.com/focamacho/Focamacho/blob/main/images/ditto.gif" height=32px>
             </h1>
         </a>
         <h3>About me</h3>
