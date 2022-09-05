@@ -14,8 +14,6 @@
             <br/>
             I am passionate about games and I like to create mods and plugins for them ❤
             <br/>
-            <br/>
-            My real name is Renan Colombo and I'm 20 years old.
         </p>
 </div>
 
