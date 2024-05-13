@@ -10,7 +10,7 @@
         </a>
         <h3>About me</h3>
         <p>
-            Hello! I'm Focamacho, a programming student who seeks to improve his skills in the most diverse areas 👋
+            Hello! I'm Focamacho, a Java/Kotlin developer who seeks to improve his skills in the most diverse areas 👋
             <br/>
             I am passionate about games and I like to create mods and plugins for them ❤
             <br/>
