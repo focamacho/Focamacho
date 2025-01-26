@@ -22,7 +22,7 @@
 <div align="center">
         <a href="#">
                 <img height="160em" src="https://github-readme-stats-q1oxknttp-focamacho.vercel.app/api?username=Focamacho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-                <img height="160em" src="https://streak-stats.demolab.com/?user=focamacho&theme=radical"/>
+                <!-- <img height="160em" src="https://streak-stats.demolab.com/?user=focamacho&theme=radical"/> -->
         </a>
 </div>
 
